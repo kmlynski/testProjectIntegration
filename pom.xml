@@ -65,6 +65,12 @@
             <artifactId>log4j-slf4j-impl</artifactId>
             <version>2.11.1</version>
         </dependency>
+        <dependency>
+            <groupId>io.testproject</groupId>
+            <artifactId>java-sdk</artifactId>
+            <version>0.65.4-RELEASE</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
     <build>
 
